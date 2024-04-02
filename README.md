@@ -1,7 +1,7 @@
 # kaggle_transformer
 Cataloging changes on the Kaggle Transformer Sentiment Analysis project
 
-To-Do: Mmerge the different versions of the notebooks and use this repo 
+To-Do: Merge the different versions of the notebooks and use this repo 
        as version control
 
 Legend:
