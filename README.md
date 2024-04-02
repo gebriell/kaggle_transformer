@@ -7,4 +7,5 @@ To-Do: Mmerge the different versions of the notebooks and use this repo
 Legend:
 
 mod_# = Professor's modifications
+
 mod_## = Gebriel's modifications
