@@ -1,5 +1,6 @@
 # Kaggle Transformer Sentiment Analysis
-www.github.com/gebriell/kaggle_transformer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/gebriell/kaggle_transformer)
 
 This repository contains the work done for the Kaggle Transformer Sentiment Analysis project. The project aims to perform sentiment analysis using a custom transformer-based encoder and classifier.
 
